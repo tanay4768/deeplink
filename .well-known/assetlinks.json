@@ -1,14 +1,11 @@
 [
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "com.hackslashnitp.community_app",
-      "sha256_cert_fingerprints": [
-        "C2:07:14:D5:57:00:D3:4F:70:A9:2E:2E:A3:41:9A:3C:0E:B0:79:35:AC:98:49:8F:07:3C:67:6D:63:F5:77:2C"
-      ]
+      "sha256_cert_fingerprints":
+        ["C2:07:14:D5:57:00:D3:4F:70:A9:2E:2E:A3:41:9A:3C:0E:B0:79:35:AC:98:49:8F:07:3C:67:6D:63:F5:77:2C"]
     }
   }
 ]
